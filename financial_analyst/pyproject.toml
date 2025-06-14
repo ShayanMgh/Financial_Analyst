@@ -13,7 +13,7 @@ test = "test.main:run"
 run_crew = "test.main:run"
 train = "test.main:train"
 replay = "test.main:replay"
-test = "test.main:test"
+
 
 [build-system]
 requires = ["hatchling"]
